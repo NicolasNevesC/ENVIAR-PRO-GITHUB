@@ -1,0 +1,9 @@
+PARA ENVIAR :
+
+
+git init
+git branch -M main
+git remote add origin
+git add .
+git commit -m "first commit"
+git push origin main
